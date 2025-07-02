@@ -20,7 +20,7 @@ members = [
 ]
 
 [dependencies]
-futuresdr = { git = "https://github.com/MerchGuardian/FutureSDR", rev = "cb7a0dc90d573803b4c23ebf453bef857655bcc5" }
+futuresdr = { git = "https://github.com/MerchGuardian/FutureSDR", rev = "d975e57c021e3abf0d406119c9eb9fd42964158e" }
 async-channel = { version = "2.3.1", optional = true }
 async-trait = "0.1.81"
 crossbeam-channel = { version = "0.5.13", optional = true }
